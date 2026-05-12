@@ -1,11 +1,4 @@
----
-title: Tutorial - Introduction
-sidebar_label: Introduction
-slug: introduction
----
-
-import Tabs from '@theme/Tabs';
-import TabItem from '@theme/TabItem';
+---m '@theme/TabItem';
 
 # Getting started
 
